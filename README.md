@@ -83,10 +83,9 @@ A prototype interface was created using **Streamlit** to input and analyze user 
 ---
 
 ## 👨‍💻 Author
-
-**Your Name**  
+ 
 Email: chandrikachavva5@gmail.com  
-LinkedIn: ( https://www.linkedin.com/in/chandrika508/)
+LinkedIn: ( https://www.linkedin.com/in/chandrika22/)
 GitHub: (https://github.com/chandrika203)
 
 ---
